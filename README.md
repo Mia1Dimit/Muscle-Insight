@@ -23,7 +23,6 @@ We’ve completed all major design, signal processing, analysis, and implementat
 
 - [Electronics Special Issue (Wireless Sensor Network)](https://www.mdpi.com/journal/electronics/special_issues/Wireless_Sensor_Network)
 - [Overleaf Project](https://www.overleaf.com/4219964889njyzqnjgshyd#8198bc)
-- [Google Docs: Project Notes](https://docs.google.com/document/d/1ecHfYun13XQoTQhuICtWPRKvC5i2IAHv-5Wr92j8-4Q/edit?usp=sharing)
 
 ## 📝 Paper
 
